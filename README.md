@@ -1,3 +1,1 @@
-daleione.github.io
-==================
-## dalei的个人博客
+### dalei的个人博客
