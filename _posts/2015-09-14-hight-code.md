@@ -1,6 +1,6 @@
 ---
 layout: code
-title: 你好，世界
+title: 代码高亮测试
 ---
 
 ###代码高亮测试
